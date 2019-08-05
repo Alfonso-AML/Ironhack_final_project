@@ -9,9 +9,8 @@
 		https://www.kaggle.com/c/santander-product-recommendation
 
 
-<p align="center">
-![Santander logo](./santander_logo.jpg)
-</p>
+![Santander logo](./santander_logo.jpgstyle=centerme)
+
 
 
 ## Goal:

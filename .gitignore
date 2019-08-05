@@ -12,3 +12,4 @@ clean_train.csv
 clean_train.parquet
 data/
 kaggle.tar.gz
+.kaggle/

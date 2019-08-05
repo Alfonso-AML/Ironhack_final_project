@@ -19,6 +19,7 @@ There is 1786 participants on the competition. My goal is, in one week reach pos
 * Save the file.
 * Feature engineering.
 * Create a model and train it.
+* Additionally, for this competition the submission have to be made through Kaggle API, I will install it and make my submissions on that way.
 
 ## Files:
 * Data files - Files weight are quite heavy, so I won't upload them here since are available on kaggle.

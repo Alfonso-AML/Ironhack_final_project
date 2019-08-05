@@ -8,7 +8,11 @@
 ## Kaggle competition: 
 		https://www.kaggle.com/c/santander-product-recommendation
 
-	       ![Santander logo](./santander_logo.jpg)
+
+<p align="center">
+![Santander logo](./santander_logo.jpg)
+</p>
+
 
 ## Goal:
 There is 1786 participants on the competition. My goal is, in one week reach position 536 or higher (being in 30% highest scores). There are some people that has spent several weeks just to understand the data and finding patterns. Their findings can be found on Kernels and Discussion tabs. I will use their expertise and approach to solve this challenge in time.

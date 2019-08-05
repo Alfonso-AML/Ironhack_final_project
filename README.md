@@ -2,14 +2,16 @@
 
 
 # <font color=red>Ironhack_final_project</font>
+### Campus: Madrid       Course start date:June 2019
 
 ## Kaggle competition: 
 		https://www.kaggle.com/c/santander-product-recommendation
 
-## <font color=red>Goal:</font>
+## Goal:
 There is 1786 participants on the competition. My goal is, in one week reach position 536 or higher (being in 30% highest scores)
 
-## <font color=blue>Steps:</font>
+## Steps:
+* I've created a new environment called kaggle.tar.gz with all libraries I needed for this project. This environment was created with conda. As files weight is too heavy for GitHub, it will available in GoogleDrive.
 * I've tried to open the file and it is too heavy (it have 48 columns and 13647309 rows). Having this in account I've created a dictionary that will specify the type of each column and will allow me to open the file.
 * After opening the file, I start to inspect each column to know what I'm facing.
 * Data cleaning.
@@ -17,7 +19,8 @@ There is 1786 participants on the competition. My goal is, in one week reach pos
 * Feature engineering.
 * Create a model and train it.
 
-## <font color=blue>Files:</font>
+## Files:
+* Data files - Files weight are quite heavy, so I won't upload them here since are available on kaggle.
 * Data wrangling - File used for loading the file on first time and for data cleaning.
 * Data processing - File used for feature engineering, to develop the model, train it and make the submission.
 

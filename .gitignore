@@ -10,3 +10,5 @@ train_ver2.csv
 fileformat.pickle
 clean_train.csv
 clean_train.parquet
+data/
+kaggle.tar.gz

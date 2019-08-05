@@ -16,7 +16,8 @@
 
 
 ## Goal:
-There is 1786 participants on the competition. My goal is, in one week reach position 536 or higher (being in 30% highest scores). There are some people that has spent several weeks just to understand the data and finding patterns. Their findings can be found on Kernels and Discussion tabs. I will use their expertise and approach to solve this challenge in time.
+There is 1786 participants on the competition. My goal is, in one week reach position 536 or higher (being in 30% highest scores). 
+There are some people that has spent several weeks just to understand the data and finding patterns, `some people spent 11 months during competition.` Their findings can be found on Kernels and Discussion tabs. I will use their expertise and approach to solve this challenge in time.
 
 ## Steps:
 * I've created a new environment called kaggle.tar.gz with all libraries I needed for this project. This environment was created with conda. As files weight is too heavy for GitHub, it will available in GoogleDrive.

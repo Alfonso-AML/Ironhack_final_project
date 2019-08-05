@@ -9,7 +9,7 @@
 		https://www.kaggle.com/c/santander-product-recommendation
 
 
-![Santander logo](./santander_logo.jpgstyle=centerme)
+![Santander logo](./santander_logo.jpg?style=centerme)
 
 
 

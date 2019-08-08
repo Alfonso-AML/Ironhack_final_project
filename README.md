@@ -16,7 +16,7 @@
 
 
 ## Goal:
-There is 1786 participants on the competition. My goal is, in one week reach position 536 or higher (being in 30% highest scores). 
+There is 1786 participants on the competition. My goal is, in one week reach the higher position as possible. 
 There are some people that has spent several weeks just to understand the data and finding patterns, `some people spent 11 months during competition.` Their findings can be found on Kernels and Discussion tabs. I will use their expertise and approach to solve this challenge in time.
 
 ## Steps:
@@ -33,4 +33,7 @@ There are some people that has spent several weeks just to understand the data a
 * Data files - Files weight are quite heavy, so I won't upload them here since are available on kaggle.
 * Data wrangling - File used for loading the file on first time and for data cleaning.
 * Data processing - File used for feature engineering, to develop the model, train it and make the submission through kaggle API.
+* The environment I've used to develop this project is available on:
+	https://drive.google.com/open?id=1HftHtf82FP3QgjSkNf9ELpxspJK15hlW
+
 

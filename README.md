@@ -33,7 +33,8 @@ There are some people that has spent several weeks just to understand the data a
 * Data files - Files weight are quite heavy, so I won't upload them here since are available on kaggle.
 * Data wrangling - File used for loading the file on first time and for data cleaning.
 * Data processing - File used for feature engineering, to develop the model, train it and make the submission through kaggle API.
-* The environment I've used to develop this project is available on:
+* The environment I've used to develop this project was made with Conda, and it is available on:
+
 	https://drive.google.com/open?id=1HftHtf82FP3QgjSkNf9ELpxspJK15hlW
 
 
